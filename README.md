@@ -9,3 +9,10 @@
   <li>Criação de arquivo .TXT com os dados criptografados</li>
 </ul>
 <p>Acredito que a realização desse projeto demandou bastante esforço e tempo, pois a grande maioria das funções e técnicas de programação foram aprendidas durantes as aulas recentes.</p>
+<br>
+<p>Esse projeto foi elaborado com a colaboração de três alunos</p>
+<ol>
+  <li>Bernardo Fiorese Perly       RA:24087537-2</li>
+  <li>Luiz Miguel Plaça de Souza   RA: 23149095-2</li>
+  <li>Julio Cezar Dos Santos Kamke RA:24058066-2</li>
+</ol>
